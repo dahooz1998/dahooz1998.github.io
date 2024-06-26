@@ -3998,3 +3998,6 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+	body.is-mobile.landing #footer2 {
+		background-color: #ffff69;
+	}
