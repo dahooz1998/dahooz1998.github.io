@@ -2831,43 +2831,43 @@ input, select, textarea {
 		}
 
 		.spotlight2:nth-child(1) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.075);
 		}
 
 		.spotlight2:nth-child(2) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.15);
 		}
 
 		.spotlight2:nth-child(3) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.225);
 		}
 
 		.spotlight2:nth-child(4) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.3);
 		}
 
 		.spotlight2:nth-child(5) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.375);
 		}
 
 		.spotlight2:nth-child(6) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.45);
 		}
 
 		.spotlight2:nth-child(7) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.525);
 		}
 
 		.spotlight2:nth-child(8) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.6);
 		}
 
 		.spotlight2:nth-child(9) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.675);
 		}
 
 		.spotlight2:nth-child(10) {
-			background-color: rgba(255, 219, 56, 0);
+			background-color: rgba(255, 219, 56, 0.75);
 		}
 
 		@media screen and (max-width: 1280px) {
