@@ -2872,11 +2872,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
-			.spotlight .image {
+			.spotlight2 .image {
 				width: 45%;
 			}
 
-			.spotlight .content {
+			.spotlight2 .content {
 				width: 55%;
 			}
 
@@ -2884,19 +2884,19 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			.spotlight {
+			.spotlight2 {
 				display: block;
 			}
 
-				.spotlight br {
+				.spotlight2 br {
 					display: none;
 				}
 
-				.spotlight .image {
+				.spotlight2 .image {
 					width: 100%;
 				}
 
-				.spotlight .content {
+				.spotlight2 .content {
 					padding: 4em 3em 2em 3em ;
 					max-width: none;
 					text-align: center;
@@ -2907,7 +2907,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			.spotlight .content {
+			.spotlight2 .content {
 				padding: 3em 2em 1em 2em ;
 			}
 
